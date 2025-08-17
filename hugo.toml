@@ -3,10 +3,10 @@ disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true
 hasCJKLanguage = true
-languageCode = "en"
+languageCode = "it"
 rssLimit = 10
 theme = "hugo-texify3"
-title = "TeXify3"
+# title = "TeXify3"
 
 [caches]
     [caches.images]

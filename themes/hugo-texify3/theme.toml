@@ -17,4 +17,3 @@ features = ["blog", "postcss", "comments", "google analytics"]
 [original]
     author = "Pavel Sapezhka"
     repo = "https://github.com/weastur/hugo-texify2"
-    
