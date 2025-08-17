@@ -22,10 +22,9 @@ series = "series"
 
 [params]
 title="Albi's site"
-description = "Una piccola pagina personale, e un blog per quello che ho voglia di scrivere"
+description = "A simple personal page, with a blog for my random thoughts"
 footnote = """
-Powered by / realizzato con  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
-Theme / tema <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
+Made with  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> / Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
 """
 customCSS = []
 customJS = []

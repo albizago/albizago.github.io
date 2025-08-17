@@ -11,6 +11,10 @@
     </button>
   </h1>
 
+  <h4>
+    {{ .Site.Params.description | default .Site.Description }}
+  </h4>
+
   <nav>
     {{ range .Site.Menus.main }}
     <span class="nav-bar-item">
