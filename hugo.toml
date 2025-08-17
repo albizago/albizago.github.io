@@ -6,7 +6,7 @@ hasCJKLanguage = true
 languageCode = "it"
 rssLimit = 10
 theme = "hugo-texify3"
-# title = "TeXify3"
+title = "Test"
 
 [caches]
     [caches.images]
@@ -24,8 +24,8 @@ title="Albi's site"
 author = "Alberto"
 description = "Una piccola pagina personale, e un blog per quello che ho voglia di scrivere"
 footnote = """
-Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
-Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
+Powered by / realizzato con  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
+Theme / tema <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
 """
 customCSS = []
 customJS = []
