@@ -17,11 +17,11 @@ pagerSize = 5
 
 [taxonomies]
 tags = "tags"
-# categories = "categories"
+categories = "categories"
+series = "series"
 
 [params]
 title="Albi's site"
-author = "Alberto"
 description = "Una piccola pagina personale, e un blog per quello che ho voglia di scrivere"
 footnote = """
 Powered by / realizzato con  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
@@ -37,6 +37,9 @@ math = true
 enableDuckDuckGoSearchBox = true
 numberedSubtitles = true
 
+[params.Author]
+    name = "Alberto Zaghini"
+
 [params.commentEngine]
 code = " "
 
@@ -46,9 +49,29 @@ code = " "
 [params.sharingbuttons]
 facebook = false
 x = false
+twitter = false
 email = false
-linkedin = true
+linkedin = false
 reddit = false
 whatsapp = false
 hackernews = false
 telegram = false
+
+[services]
+    [services.googleAnalytics]
+    id = " "
+
+[menu]
+    [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    pre = ""
+    weight = 1
+
+    [[menu.main]]
+    identifier = "about"
+    name = "Info"
+    url = "/about.md"
+    pre = ""
+    weight = 2
