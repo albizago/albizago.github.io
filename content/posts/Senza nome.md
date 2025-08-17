@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: false
 author: Albi
 title: Un tentativo
 date: 2025-08-17

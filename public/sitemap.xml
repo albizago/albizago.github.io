@@ -2,9 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://albizago.github.io/</loc>
-    <lastmod>2025-08-17T12:59:10+02:00</lastmod>
+    <loc>https://albizago.github.io/posts/</loc>
+    <lastmod>2025-08-17T16:52:07+02:00</lastmod>
   </url><url>
     <loc>https://albizago.github.io/tags/</loc>
+    <lastmod>2025-08-17T16:52:07+02:00</lastmod>
+  </url><url>
+    <loc>https://albizago.github.io/tags/test/</loc>
+    <lastmod>2025-08-17T16:52:07+02:00</lastmod>
+  </url><url>
+    <loc>https://albizago.github.io/posts/senza-nome/</loc>
+    <lastmod>2025-08-17T16:52:07+02:00</lastmod>
+  </url><url>
+    <loc>https://albizago.github.io/</loc>
+    <lastmod>2025-08-17T13:26:22+02:00</lastmod>
+  </url><url>
+    <loc>https://albizago.github.io/template/</loc>
+    <lastmod>2025-08-17T16:52:07+02:00</lastmod>
   </url>
 </urlset>

@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TeXify3</title>
+    <title>Test</title>
     <link>https://albizago.github.io/</link>
-    <description>Recent content on TeXify3</description>
+    <description>Recent content on Test</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://albizago.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="https://albizago.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un tentativo</title>
+      <link>https://albizago.github.io/posts/senza-nome/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://albizago.github.io/posts/senza-nome/</guid>
+      <description>&lt;p&gt;Questo è un articolo &lt;strong&gt;di prova&lt;/strong&gt;. Solo un &lt;em&gt;tentativo&lt;/em&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Si dovrebbe spezzare sopra questo paragrafo,&lt;em&gt;si dovrebbe&lt;/em&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;poi-non-lo-so&#34;&gt;Poi non lo so&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ma magari&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;Sì&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

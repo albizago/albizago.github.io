@@ -9,11 +9,5 @@ categories:
 series: 
 aliases:
 ---
-Questo è un articolo **di prova**. Solo un *tentativo*...
+Demo
 <!--more-->
-Si dovrebbe spezzare sopra questo paragrafo,*si dovrebbe*.
-# Poi non lo so
-> Ma magari
-
----
-Sì
