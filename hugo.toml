@@ -72,6 +72,6 @@ telegram = false
     [[menu.main]]
     identifier = "about"
     name = "Info"
-    url = "/about.md"
+    url = "/about/"
     pre = ""
     weight = 2
