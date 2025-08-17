@@ -8,6 +8,10 @@ rssLimit = 10
 theme = "hugo-texify3"
 title = "TeXify3"
 
+[caches]
+    [caches.images]
+    dir = ':cacheDir/images'
+
 [pagination]
 pagerSize = 5
 
