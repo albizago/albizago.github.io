@@ -1,3 +1,50 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "/"
+disqusShortname = ""
+enableGitInfo = true
+enableRobotsTXT = true
+hasCJKLanguage = true
+languageCode = "en"
+rssLimit = 10
+theme = "hugo-texify3"
+title = "TeXify3"
+
+[pagination]
+pagerSize = 5
+
+[taxonomies]
+tags = "tags"
+# categories = "categories"
+
+[params]
+title="Albi's site"
+author = "Alberto"
+description = "Una piccola pagina personale, e un blog per quello che ho voglia di scrivere"
+footnote = """
+Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
+Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
+"""
+customCSS = []
+customJS = []
+dateFormat = "2 January 2006"
+emphasisWithDots = true
+toc = true
+rootFontSize = "105%"
+math = true
+enableDuckDuckGoSearchBox = true
+numberedSubtitles = true
+
+[params.commentEngine]
+code = " "
+
+[params.buymeacoffee]
+code = " "
+
+[params.sharingbuttons]
+facebook = false
+x = false
+email = false
+linkedin = true
+reddit = false
+whatsapp = false
+hackernews = false
+telegram = false
